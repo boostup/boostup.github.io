@@ -4,7 +4,7 @@
 
 [Code Repo here](https://github.com/boostup/react-colors-app)
 
-![Image of React Colors App Demo](images/react-colors-app.png | width=100)
+![Image of React Colors App Demo](images/react-colors-app.png=250x250)
 
 ## [React Material UI and Hooks Todo App](https://boostup.github.io/react-hooks-mui-todo-app/)
 
