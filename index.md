@@ -1,4 +1,6 @@
-# Boostup's demos and apps
+---
+layout: default
+---
 
 ## [React Colors Demo App](https://boostup.github.io/react-colors-app/)
 
