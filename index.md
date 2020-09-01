@@ -30,6 +30,6 @@ layout: default
 
 - [Live Demo](https://boostup-covid19-tracker.netlify.app/)
 
-- [Code Repo here](https://github.com/boostup/covid19-tracker)
+- [Code Repo here](https://github.com/boostup/react-demo-apps/tree/master/covid19-tracker)
 
 ![Image of COVID 19 Tracker Demo](images/covid19tracker-screenshot.png)
