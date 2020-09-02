@@ -2,29 +2,37 @@
 layout: default
 ---
 
-## React Colors Demo App
+## Color Palette Composition App
 
 - [Live Demo](https://boostup.github.io/react-colors-app/)
 
 - [Code Repo here](https://github.com/boostup/react-colors-app)
 
-![Image of React Colors App Demo](images/react-colors-app.png)
+![Color Palette Composition App](images/react-colors-app.png)
 
-## React Material UI and Hooks Todo App
+## Lights Out Game
+
+- [Live Demo](https://pedantic-stonebraker-c10870.netlify.app/)
+
+- [Code Repo here](https://github.com/boostup/react-lights-out)
+
+![Lights Out Game](images/lights-out-screenshot.png)
+
+## Todo App (React, Material UI, Hooks, context API)
 
 - [Live Demo](https://boostup.github.io/react-hooks-mui-todo-app/)
 
 - [Code Repo here](https://github.com/boostup/react-hooks-mui-todo-app)
 
-![Image of React Todos App Demo](images/react-todos-app.png)
+![Todo App (React, Material UI, Hooks, context API)](images/react-todos-app.png)
 
-## Material UI localized login widget with dark mode
+## Login widget (Material UI, localized, dark mode, context API)
 
 - [Live Demo](https://thirsty-lewin-9e0d21.netlify.app/)
 
 - [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/material-ui-localized-login-with-dark-mode)
 
-![Image of React Hooks and Multi-Contexts Demo](images/material-ui-localized-login-with-dark-mode.png)
+![Login widget (Material UI, localized, dark mode, context API)](images/material-ui-localized-login-with-dark-mode.png)
 
 ## COVID 19 Tracker
 
@@ -32,4 +40,4 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-demo-apps/tree/master/covid19-tracker)
 
-![Image of COVID 19 Tracker Demo](images/covid19tracker-screenshot.png)
+![COVID 19 Tracker](images/covid19tracker-screenshot.png)
