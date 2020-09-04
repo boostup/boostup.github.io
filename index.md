@@ -20,6 +20,15 @@ layout: default
 
 ![Lights Out Game](images/lights-out-screenshot.png){:width="400px"}
 
+## Simple Todo App with animations
+
+- [Live Demo](https://confident-shockley-90b9a0.netlify.app/)
+
+- [Code Repo here](https://github.com/boostup/react-todo-app-with-animations)
+
+![Simple Todo App with animations](images/9F51794D-2C11-422B-9188-AE4D6EF6C1C2.jpeg)
+
+
 ## Todo App (React, Material UI, Hooks, context API)
 
 - [Live Demo](https://boostup.github.io/react-hooks-mui-todo-app/)
