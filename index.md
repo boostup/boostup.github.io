@@ -44,7 +44,7 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/facebook-dropdown-clone)
 
-![Login widget (Material UI, localized, dark mode, context API)](images/material-ui-localized-login-with-dark-mode.png)
+![Multilevel dropdown menu demo "a la facebook"](images/E89E5338-5A09-4137-B8A1-DB8B6D9FACE7.jpeg)
 
 ## Login widget (Material UI, localized, dark mode, context API)
 
@@ -52,5 +52,5 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/material-ui-localized-login-with-dark-mode)
 
-![Login widget (Material UI, localized, dark mode, context API)](images/E89E5338-5A09-4137-B8A1-DB8B6D9FACE7.jpeg)
+![Login widget (Material UI, localized, dark mode, context API)](images/material-ui-localized-login-with-dark-mode.png)
 
