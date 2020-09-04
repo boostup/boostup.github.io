@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Demo Apps
+
 ## Color Palette Composition App
 
 - [Live Demo](https://boostup.github.io/react-colors-app/)
@@ -26,14 +28,6 @@ layout: default
 
 ![Todo App (React, Material UI, Hooks, context API)](images/react-todos-app.png)
 
-## Login widget (Material UI, localized, dark mode, context API)
-
-- [Live Demo](https://nervous-wescoff-fd3b90.netlify.app/)
-
-- [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/material-ui-localized-login-with-dark-mode)
-
-![Login widget (Material UI, localized, dark mode, context API)](images/material-ui-localized-login-with-dark-mode.png)
-
 ## COVID 19 Tracker
 
 - [Live Demo](https://boostup-covid19-tracker.netlify.app/)
@@ -41,3 +35,22 @@ layout: default
 - [Code Repo here](https://github.com/boostup/react-demo-apps/tree/master/covid19-tracker)
 
 ![COVID 19 Tracker](images/covid19tracker-screenshot.png)
+
+# Demo UI Widgets
+
+## Multilevel dropdown menu demo "a la facebook"
+
+- [Live Demo](https://laughing-pare-6fcdf7.netlify.app/)
+
+- [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/facebook-dropdown-clone)
+
+![Login widget (Material UI, localized, dark mode, context API)](images/material-ui-localized-login-with-dark-mode.png)
+
+## Login widget (Material UI, localized, dark mode, context API)
+
+- [Live Demo](https://nervous-wescoff-fd3b90.netlify.app/)
+
+- [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/material-ui-localized-login-with-dark-mode)
+
+![Login widget (Material UI, localized, dark mode, context API)](images/E89E5338-5A09-4137-B8A1-DB8B6D9FACE7.jpeg)
+
