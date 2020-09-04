@@ -26,7 +26,7 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-todo-app-with-animations)
 
-![Simple Todo App with animations](images/9F51794D-2C11-422B-9188-AE4D6EF6C1C2.jpeg)
+![Simple Todo App with animations](images/44B6AEB4-DFBF-4CD6-84A6-566AB0AD9751.jpeg)
 
 
 ## Todo App (React, Material UI, Hooks, context API)
