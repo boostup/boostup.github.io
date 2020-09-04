@@ -28,7 +28,7 @@ layout: default
 
 ## Login widget (Material UI, localized, dark mode, context API)
 
-- [Live Demo](https://thirsty-lewin-9e0d21.netlify.app/)
+- [Live Demo](https://nervous-wescoff-fd3b90.netlify.app/)
 
 - [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/material-ui-localized-login-with-dark-mode)
 
