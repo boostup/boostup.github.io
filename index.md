@@ -18,7 +18,7 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-lights-out)
 
-![Lights Out Game](images/lights-out-screenshot.png)
+![Lights Out Game](images/lights-out-screenshot.png){:width="400px"}
 
 ## Todo App (React, Material UI, Hooks, context API)
 
