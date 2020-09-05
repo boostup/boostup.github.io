@@ -10,7 +10,15 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-yahtzee)
 
-![Yahtzee Game](images/.png)
+![Yahtzee Game](images/screenshot-yahtzee.png)
+
+## Lights Out Game
+
+- [Live Demo](https://pedantic-stonebraker-c10870.netlify.app/)
+
+- [Code Repo here](https://github.com/boostup/react-lights-out)
+
+![Lights Out Game](images/screenshot-lights-out.png){:width="400px"}
 
 # Demo Apps
 
@@ -20,15 +28,7 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-colors-app)
 
-![Color Palette Composition App](images/react-colors-app.png)
-
-## Lights Out Game
-
-- [Live Demo](https://pedantic-stonebraker-c10870.netlify.app/)
-
-- [Code Repo here](https://github.com/boostup/react-lights-out)
-
-![Lights Out Game](images/lights-out-screenshot.png){:width="400px"}
+![Color Palette Composition App](images/screenshot-react-colors-app.png)
 
 ## Simple Todo App with animations
 
@@ -36,8 +36,7 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-todo-app-with-animations)
 
-![Simple Todo App with animations](images/44B6AEB4-DFBF-4CD6-84A6-566AB0AD9751.jpeg)
-
+![Simple Todo App with animations](images/screenshot-react-todo-app-with-animations.jpeg)
 
 ## Todo App (React, Material UI, Hooks, context API)
 
@@ -45,7 +44,7 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-hooks-mui-todo-app)
 
-![Todo App (React, Material UI, Hooks, context API)](images/react-todos-app.png)
+![Todo App (React, Material UI, Hooks, context API)](images/screenshot-react-hooks-mui-todo-app.png)
 
 ## COVID 19 Tracker
 
@@ -53,7 +52,7 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-demo-apps/tree/master/covid19-tracker)
 
-![COVID 19 Tracker](images/covid19tracker-screenshot.png)
+![COVID 19 Tracker](images/screenshot-covid-19-tracker.png)
 
 # Demo UI Widgets
 
@@ -63,7 +62,7 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/facebook-dropdown-clone)
 
-![Multilevel dropdown menu demo "a la facebook"](images/E89E5338-5A09-4137-B8A1-DB8B6D9FACE7.jpeg){:width="300px"}
+![Multilevel dropdown menu demo "a la facebook"](images/screenshot-facebook-dropdown-clone.jpeg){:width="300px"}
 
 ## Login widget (Material UI, localized, dark mode, context API)
 
@@ -71,5 +70,4 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/material-ui-localized-login-with-dark-mode)
 
-![Login widget (Material UI, localized, dark mode, context API)](images/material-ui-localized-login-with-dark-mode.png)
-
+![Login widget (Material UI, localized, dark mode, context API)](images/screenshot-material-ui-localized-login-with-dark-mode.png)
