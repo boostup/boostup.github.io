@@ -2,6 +2,16 @@
 layout: default
 ---
 
+# Demo Games
+
+## Yahtzee!
+
+- [Live Demo](https://upbeat-bose-8f59b4.netlify.app/)
+
+- [Code Repo here](https://github.com/boostup/react-yahtzee)
+
+![Yahtzee Game](images/.png)
+
 # Demo Apps
 
 ## Color Palette Composition App
