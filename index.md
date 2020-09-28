@@ -2,6 +2,18 @@
 layout: default
 ---
 
+# Featured
+
+## 👑 Regalia Clothing 👚 (fully functioning e-commerce app)
+
+- [Live Demo](https://fervent-snyder-0eb669.netlify.app/#/){:target="\_blank"}
+
+- [Code Repo here](https://github.com/boostup/regalia-clothing){:target="\_blank"}
+
+- 👍 **See how the app was built step-by-step** 👍 thanks to the chronological [pull requests history](https://github.com/boostup/regalia-clothing/pulls?page=2&q=is%3Apr+is%3Aclosed+sort%3Acreated-asc){:target="\_blank"}
+
+![Regalia Clothing - fully functioning e-commerce app](https://raw.githubusercontent.com/boostup/regalia-clothing/staging/public/images/app-demo.gif)
+
 # Demo Games
 
 ## Yahtzee!
