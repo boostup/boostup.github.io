@@ -18,7 +18,7 @@ layout: default
 
 ## Lights Out Game
 
-![Lights Out Game](images/screenshot-lights-out.png)
+![Lights Out Game](images/lights-out-demo.gif)
 
 - [Live Demo](https://pedantic-stonebraker-c10870.netlify.app/){:target="\_blank"}
 
@@ -46,17 +46,27 @@ layout: default
 
 ---
 
-## Simple Todo App with animations
+## COVID 19 Tracker Responsive App
 
-![Simple Todo App with animations](images/screenshot-react-todo-app-with-animations.jpeg)
+![COVID 19 Tracker Responsive App](images/screenshot-covid-19-tracker.png)
 
-- [Live Demo](https://confident-shockley-90b9a0.netlify.app/){:target="\_blank"}
+- [Live Demo](https://boostup-covid19-tracker.netlify.app/){:target="\_blank"}
 
-- [Code Repo here](https://github.com/boostup/react-todo-app-with-animations){:target="\_blank"}
+- [Code Repo here](https://github.com/boostup/react-demo-apps/tree/master/covid19-tracker){:target="\_blank"}
 
 ---
 
-## Todo App (React, Material UI, Hooks, context API)
+## Pizza Order Animated & Responsive App
+
+![Pizza Order Animated & Responsive App](images/pizza-joint-demo.gif)
+
+- [Live Demo](https://jolly-galileo-8826ac.netlify.app/){:target="\_blank"}
+
+- [Code Repo here](https://github.com/boostup/framer-motion-pizza-joint-exercise){:target="\_blank"}
+
+---
+
+## Todo App (React, Material UI, Hooks, Context API)
 
 ![Todo App (React, Material UI, Hooks, context API)](images/screenshot-react-hooks-mui-todo-app.png)
 
@@ -66,19 +76,39 @@ layout: default
 
 ---
 
-## COVID 19 Tracker
+## Simple Todo App with animations
 
-![COVID 19 Tracker](images/screenshot-covid-19-tracker.png)
+![Simple Todo App with animations](images/todo-app-animated-responsive-demo.gif)
 
-- [Live Demo](https://boostup-covid19-tracker.netlify.app/){:target="\_blank"}
+- [Live Demo](https://confident-shockley-90b9a0.netlify.app/){:target="\_blank"}
 
-- [Code Repo here](https://github.com/boostup/react-demo-apps/tree/master/covid19-tracker){:target="\_blank"}
+- [Code Repo here](https://github.com/boostup/react-todo-app-with-animations){:target="\_blank"}
 
 # Demo UI Widgets
 
+## Animated & Responsive menu header
+
+![Animated & Responsive menu header](images/animated-responsive-menu-header-demo2.gif)
+
+- [Live Demo](https://agitated-euclid-9c1938.netlify.app/){:target="\_blank"}
+
+- [Code Repo here](https://github.com/boostup/react-framer-motion-react-router-dom-route-transition){:target="\_blank"}
+
+---
+
+## Animated drawer menu
+
+![Animated drawer menu](images/animated-drawer-menu-demo.gif)
+
+- [Live Demo](https://admiring-knuth-8cd550.netlify.app/){:target="\_blank"}
+
+- [Code Repo here](https://github.com/boostup/framer-motion-side-menu-exercise){:target="\_blank"}
+
+---
+
 ## Animated dropdown menu demo "a la facebook"
 
-![Animated dropdown menu demo "a la facebook"](images/screenshot-facebook-dropdown-clone.jpeg){:width="300px"}
+![Animated dropdown menu demo "a la facebook"](images/facebook-menu-dropdown-demo.gif)
 
 - [Live Demo](https://laughing-pare-6fcdf7.netlify.app/){:target="\_blank"}
 
