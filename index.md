@@ -24,6 +24,8 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-lights-out){:target="\_blank"}
 
+---
+
 ## Yahtzee!
 
 ![Yahtzee Game](https://raw.githubusercontent.com/boostup/react-yahtzee/master/public/images/demo.gif)
@@ -42,6 +44,8 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-colors-app){:target="\_blank"}
 
+---
+
 ## Simple Todo App with animations
 
 ![Simple Todo App with animations](images/screenshot-react-todo-app-with-animations.jpeg)
@@ -50,6 +54,8 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/react-todo-app-with-animations){:target="\_blank"}
 
+---
+
 ## Todo App (React, Material UI, Hooks, context API)
 
 ![Todo App (React, Material UI, Hooks, context API)](images/screenshot-react-hooks-mui-todo-app.png)
@@ -57,6 +63,8 @@ layout: default
 - [Live Demo](https://boostup.github.io/react-hooks-mui-todo-app/){:target="\_blank"}
 
 - [Code Repo here](https://github.com/boostup/react-hooks-mui-todo-app){:target="\_blank"}
+
+---
 
 ## COVID 19 Tracker
 
@@ -75,6 +83,8 @@ layout: default
 - [Live Demo](https://laughing-pare-6fcdf7.netlify.app/){:target="\_blank"}
 
 - [Code Repo here](https://github.com/boostup/react-demo-widgets/tree/master/facebook-dropdown-clone){:target="\_blank"}
+
+---
 
 ## Login widget (Material UI, localized, dark mode, context API)
 
