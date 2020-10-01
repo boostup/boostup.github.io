@@ -4,7 +4,7 @@ layout: default
 
 # Featured
 
-## 👑 Regalia Clothing 👚 (fully functioning e-commerce app)
+## 👑 Regalia Clothing 👚 (fully functioning E-commerce ReactJS/Redux/NodeJS/Stripe payment app)
 
 - [Live Demo](https://fervent-snyder-0eb669.netlify.app/#/){:target="\_blank"}
 
@@ -13,6 +13,16 @@ layout: default
 - 👍 **See how the app was built step-by-step** 👍 thanks to the chronological [pull requests history](https://github.com/boostup/regalia-clothing/pulls?page=2&q=is%3Apr+is%3Aclosed+sort%3Acreated-asc){:target="\_blank"}
 
 ![Regalia Clothing - fully functioning e-commerce app](https://raw.githubusercontent.com/boostup/regalia-clothing/staging/public/images/app-demo.gif){:width="600px"}
+
+# E-commerce demo
+
+## Stripe checkout with Netlify functions (serverless NodeJS) w/ Vanilla HTML/CSS/JS
+
+- [Live Demo](https://boostup-stripe-checkout-netlify-serverless.netlify.app/){:target="\_blank"}
+
+- [Code Repo here](https://github.com/boostup/stripe-checkout-netlify-serverless){:target="\_blank"}
+
+![Stripe checkout with Netlify functions (serverless NodeJS) w/ Vanilla HTML/CSS/JS](https://raw.githubusercontent.com/boostup/stripe-checkout-netlify-serverless/master/public/images/demo.gif)
 
 # Demo Games
 
@@ -50,7 +60,7 @@ layout: default
 
 - [Live Demo](https://boostup-covid19-tracker.netlify.app/){:target="\_blank"}
 
-- [Code Repo here](https://github.com/boostup/react-demo-apps/tree/master/covid19-tracker){:target="\_blank"}
+- [Code Repo here](https://github.com/boostup/react-covid19-tracker){:target="\_blank"}
 
 ![COVID 19 Tracker Responsive App](images/screenshot-covid-19-tracker.png)
 
