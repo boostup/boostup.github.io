@@ -10,7 +10,9 @@ layout: default
 
 - [Code Repo here](https://github.com/boostup/regalia-clothing){:target="\_blank"}
 
-- 👍 **See how the app was built step-by-step** 👍 thanks to the chronological [pull requests history](https://github.com/boostup/regalia-clothing/pulls?page=2&q=is%3Apr+is%3Aclosed+sort%3Acreated-asc){:target="\_blank"}
+- [Project PR history][featuredpullrequesthistory]
+
+- [Project Kanban board][featuredkanbanproject]
 
 ![Regalia Clothing - fully functioning e-commerce app](https://raw.githubusercontent.com/boostup/regalia-clothing/staging/public/images/app-demo.gif){:width="600px"}
 
@@ -134,3 +136,6 @@ layout: default
   {:width="300px"}
 
 ![Login widget (Material UI, localized, dark mode, context API)](images/screenshot-material-ui-localized-login-with-dark-mode.png)
+
+[featuredkanbanproject]: https://github.com/boostup/regalia-clothing/projects/1
+[featuredpullrequesthistory]: https://github.com/boostup/regalia-clothing/pulls?q=is%3Apr
